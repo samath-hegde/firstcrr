@@ -7,8 +7,9 @@ public class Firstgitcar {
 	
 	public void firstgits()
 	{
-		System.out.println("first commit");
+		System.out.println("user 1first commit");
 		System.out.println("user 2 first commit");
+		System.out.println("user 1 second commit");
 	}
 
 }
