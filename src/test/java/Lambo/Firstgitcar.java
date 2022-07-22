@@ -10,6 +10,7 @@ public class Firstgitcar {
 		System.out.println("user 1first commit");
 		System.out.println("user 2 first commit");
 		System.out.println("user 1 second commit");
+		System.out.println("user 3 third commit");
 	}
 
 }
